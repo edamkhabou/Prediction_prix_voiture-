@@ -1,0 +1,7889 @@
+{
+  "suzuki": {
+    "celerio": {
+      "2019.0": {
+        "manuelle": 7
+      },
+      "2022.0": {
+        "automatique": 2,
+        "manuelle": 5
+      },
+      "2023.0": {
+        "manuelle": 12
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2021.0": {
+        "manuelle": 6,
+        "automatique": 2
+      },
+      "2020.0": {
+        "manuelle": 2,
+        "automatique": 1
+      }
+    },
+    "xl7": {
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "swift": {
+      "2024.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 6
+      },
+      "2021.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 4
+      },
+      "2025.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "vitara": {
+      "2017.0": {
+        "automatique": 3
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "automatique": 1
+      },
+      "1990.0": {
+        "manuelle": 1
+      }
+    },
+    "samurai": {
+      "1992.0": {
+        "manuelle": 1
+      }
+    },
+    "baleno": {
+      "2019.0": {
+        "automatique": 4
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      }
+    },
+    "sx4": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "alto": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "wagon r": {
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "maruti": {
+      "2021.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "toyota": {
+    "corolla verso": {
+      "2021.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "hilux": {
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 3
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2007.0": {
+        "manuelle": 2
+      },
+      "1985.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "1991.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "yaris": {
+      "2025.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "automatique": 3,
+        "manuelle": 3
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "aygo": {
+      "2021.0": {
+        "manuelle": 4
+      },
+      "2023.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "avensis": {
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "rav 4": {
+      "2020.0": {
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 3
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      }
+    },
+    "c-hr": {
+      "2020.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "land cruiser": {
+      "1998.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "yaris verso": {
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "corolla": {
+      "2020.0": {
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "hi ace": {
+      "2009.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "previa": {
+      "2012.0": {
+        "automatique": 1
+      }
+    },
+    "starlet": {
+      "1990.0": {
+        "manuelle": 1
+      }
+    },
+    "prado": {
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "runner": {
+      "1992.0": {
+        "manuelle": 1
+      }
+    },
+    "toyota.hi ace": {
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "lexus": {
+      "2017.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "bmw": {
+    "serie 3": {
+      "2014.0": {
+        "manuelle": 4,
+        "automatique": 4
+      },
+      "2015.0": {
+        "automatique": 4
+      },
+      "2006.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "automatique": 3
+      },
+      "2017.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1,
+        "automatique": 3
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 2
+      },
+      "0.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "1988.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "serie 2": {
+      "2022.0": {
+        "automatique": 2
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "serie 1": {
+      "2010.0": {
+        "manuelle": 6
+      },
+      "2013.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2051.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2004.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "1987.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "automatique": 1
+      }
+    },
+    "serie 5": {
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 3
+      },
+      "2011.0": {
+        "automatique": 2
+      },
+      "2012.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2013.0": {
+        "automatique": 3
+      },
+      "2008.0": {
+        "automatique": 2
+      },
+      "2102.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 3
+      },
+      "1998.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "1991.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "serie 3 gt": {
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "1986.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 2
+      },
+      "2000.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      }
+    },
+    "x5": {
+      "2016.0": {
+        "automatique": 2
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2002.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 3
+      },
+      "2003.0": {
+        "automatique": 2
+      },
+      "2007.0": {
+        "automatique": 1
+      }
+    },
+    "x4": {
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "x3": {
+      "2023.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 2
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2008.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "x1": {
+      "2021.0": {
+        "automatique": 3
+      },
+      "2017.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2011.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 4
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "m": {
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "serie 7": {
+      "2002.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "automatique": 1
+      }
+    },
+    "serie 4": {
+      "2016.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 3
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "afficher le numéro": {
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "m3": {
+      "2006.0": {
+        "automatique": 1
+      },
+      "1987.0": {
+        "manuelle": 1
+      }
+    },
+    "compact": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "x6": {
+      "2012.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 1
+      }
+    },
+    "serie 6": {
+      "2005.0": {
+        "automatique": 1
+      }
+    },
+    "m5": {
+      "1999.0": {
+        "automatique": 1
+      },
+      "0.0": {
+        "automatique": 1
+      }
+    },
+    "serie 8": {
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "m6": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "m4": {
+      "2020.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "peugeot": {
+    "3008": {
+      "2021.0": {
+        "automatique": 15,
+        "manuelle": 5
+      },
+      "2011.0": {
+        "manuelle": 4,
+        "automatique": 3
+      },
+      "2022.0": {
+        "manuelle": 3,
+        "automatique": 4
+      },
+      "2020.0": {
+        "automatique": 7,
+        "manuelle": 2
+      },
+      "2017.0": {
+        "automatique": 3
+      },
+      "2019.0": {
+        "automatique": 3,
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "208": {
+      "2022.0": {
+        "manuelle": 15
+      },
+      "2023.0": {
+        "manuelle": 9
+      },
+      "2018.0": {
+        "automatique": 2,
+        "manuelle": 3
+      },
+      "2019.0": {
+        "manuelle": 12
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 6
+      },
+      "2016.0": {
+        "manuelle": 5
+      },
+      "2021.0": {
+        "automatique": 1,
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 9
+      },
+      "2014.0": {
+        "manuelle": 5
+      },
+      "2024.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 2
+      }
+    },
+    "407": {
+      "2006.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 3
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2004.0": {
+        "manuelle": 1
+      }
+    },
+    "206+": {
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 3
+      },
+      "2011.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 7
+      },
+      "2001.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "508": {
+      "2011.0": {
+        "automatique": 3,
+        "manuelle": 3
+      },
+      "2015.0": {
+        "automatique": 4
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 4
+      },
+      "2013.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2007.0": {
+        "automatique": 1
+      }
+    },
+    "301": {
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2018.0": {
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 5
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 7
+      },
+      "2015.0": {
+        "manuelle": 5
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 4
+      },
+      "2025.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "2008": {
+      "2017.0": {
+        "manuelle": 8
+      },
+      "2016.0": {
+        "manuelle": 4
+      },
+      "2020.0": {
+        "manuelle": 5
+      },
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2022.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2018.0": {
+        "manuelle": 5
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "expert": {
+      "2000.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 2
+      }
+    },
+    "partner": {
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2021.0": {
+        "manuelle": 13
+      },
+      "2020.0": {
+        "manuelle": 11
+      },
+      "2013.0": {
+        "manuelle": 4
+      },
+      "2023.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2003.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "308": {
+      "2011.0": {
+        "manuelle": 4
+      },
+      "2016.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2008.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2021.0": {
+        "6": 2,
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2019.0": {
+        "manuelle": 6
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "5008": {
+      "2020.0": {
+        "automatique": 2
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "207": {
+      "2009.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "boxer": {
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "107": {
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 4
+      }
+    },
+    "206": {
+      "2008.0": {
+        "manuelle": 6,
+        "automatique": 2
+      },
+      "2009.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2003.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2002.0": {
+        "manuelle": 2
+      },
+      "2006.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2000.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 2
+      }
+    },
+    "bipper": {
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "106": {
+      "1999.0": {
+        "manuelle": 3
+      },
+      "1998.0": {
+        "manuelle": 5
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 5
+      },
+      "1995.0": {
+        "manuelle": 2
+      },
+      "1991.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 3
+      },
+      "1979.0": {
+        "manuelle": 1
+      }
+    },
+    "406": {
+      "2004.0": {
+        "automatique": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "307": {
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 3
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "peugeot.206": {
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "j9": {
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 1
+      }
+    },
+    "205": {
+      "1990.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "1986.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "306": {
+      "2001.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "automatique": 1
+      }
+    },
+    "405": {
+      "1996.0": {
+        "manuelle": 1
+      }
+    },
+    "806": {
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "407 sw": {
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "404": {
+      "1988.0": {
+        "manuelle": 1
+      },
+      "1977.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "1980.0": {
+        "manuelle": 1
+      }
+    },
+    "104": {
+      "1979.0": {
+        "automatique": 1
+      }
+    },
+    "308 sw": {
+      "2009.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2018.0": {
+        "manuelle": 2
+      }
+    },
+    "504": {
+      "1990.0": {
+        "manuelle": 1
+      }
+    },
+    "4008": {
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "rcz": {
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "505": {
+      "1989.0": {
+        "manuelle": 1
+      },
+      "1800.0": {
+        "automatique": 1
+      }
+    },
+    "207 cc": {
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "tepee": {
+      "2023.0": {
+        "manuelle": 2
+      }
+    },
+    "206 sw": {
+      "2023.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "ford": {
+    "super duty": {
+      "2021.0": {
+        "automatique": 2
+      }
+    },
+    "fiesta": {
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2009.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 5
+      },
+      "2004.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 10
+      },
+      "1990.0": {
+        "manuelle": 1
+      },
+      "1989.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 5
+      },
+      "2011.0": {
+        "manuelle": 4
+      },
+      "1998.0": {
+        "manuelle": 3
+      },
+      "2008.0": {
+        "manuelle": 4
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "focus": {
+      "2015.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2016.0": {
+        "automatique": 2,
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 4
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 5,
+        "manuelle": 3
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2005.0": {
+        "manuelle": 2
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "ka": {
+      "2015.0": {
+        "manuelle": 5
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      }
+    },
+    "focus c-max": {
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "kuga": {
+      "2017.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 3
+      }
+    },
+    "escape": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "ecosport": {
+      "2019.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2020.0": {
+        "manuelle": 4
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2021.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1,
+        "automatique": 1
+      }
+    },
+    "escort": {
+      "2017.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "ranger": {
+      "2018.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 3
+      },
+      "2006.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "puma": {
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "f150": {
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "transit": {
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      }
+    },
+    "mondeo": {
+      "2013.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "fusion": {
+      "2016.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "maverick": {
+      "1998.0": {
+        "manuelle": 2
+      }
+    },
+    "f350": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "c-max": {
+      "2008.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "kia": {
+    "cerato": {
+      "2010.0": {
+        "manuelle": 5
+      },
+      "2012.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 4
+      },
+      "2015.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 2
+      }
+    },
+    "rio": {
+      "2012.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2013.0": {
+        "automatique": 2,
+        "manuelle": 7
+      },
+      "2019.0": {
+        "manuelle": 6
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "manuelle": 23,
+        "automatique": 2
+      },
+      "2017.0": {
+        "manuelle": 13,
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 8,
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 8
+      },
+      "2021.0": {
+        "manuelle": 21
+      },
+      "2018.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2020.0": {
+        "automatique": 6,
+        "manuelle": 12
+      },
+      "2029.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 5
+      },
+      "2023.0": {
+        "manuelle": 4
+      },
+      "2011.0": {
+        "manuelle": 3
+      },
+      "2002.0": {
+        "automatique": 1
+      },
+      "0.0": {
+        "manuelle": 1
+      }
+    },
+    "sorento": {
+      "2010.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "sportage": {
+      "2022.0": {
+        "automatique": 9
+      },
+      "2021.0": {
+        "automatique": 9,
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 7,
+        "automatique": 12
+      },
+      "2018.0": {
+        "automatique": 8,
+        "manuelle": 3
+      },
+      "2017.0": {
+        "automatique": 8,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1,
+        "automatique": 11
+      },
+      "2016.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2023.0": {
+        "automatique": 4
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1,
+        "automatique": 4
+      },
+      "2011.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2024.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "picanto": {
+      "2024.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 7
+      },
+      "2019.0": {
+        "manuelle": 5
+      },
+      "2025.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 9,
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 9
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 3,
+        "automatique": 6
+      },
+      "2015.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2013.0": {
+        "automatique": 1
+      }
+    },
+    "optima": {
+      "2013.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "carens": {
+      "2016.0": {
+        "automatique": 2
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "ceed": {
+      "2021.0": {
+        "manuelle": 4
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 4
+      }
+    },
+    "afficher le numéro": {
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "c'eed": {
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "soul": {
+      "2013.0": {
+        "automatique": 1
+      }
+    },
+    "sephia": {
+      "2022.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "• suv robuste et confortable, idéal pour la ville comme pour les longs trajets": {
+      "2010.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "porsche": {
+    "panamera": {
+      "2010.0": {
+        "automatique": 2
+      }
+    },
+    "cayenne": {
+      "2011.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "automatique": 2
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2003.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 2
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "automatique": 1
+      }
+    },
+    "cayman": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "porsche.cayenne": {
+      "2013.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "hyundai": {
+    "kona": {
+      "2022.0": {
+        "manuelle": 5,
+        "automatique": 1
+      }
+    },
+    "tucson": {
+      "2021.0": {
+        "automatique": 11
+      },
+      "2022.0": {
+        "automatique": 5,
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 2
+      },
+      "2020.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2018.0": {
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "automatique": 2
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 2
+      }
+    },
+    "grand i10": {
+      "2023.0": {
+        "manuelle": 4
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "automatique": 1,
+        "manuelle": 5
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "i 10": {
+      "2022.0": {
+        "manuelle": 20,
+        "automatique": 2
+      },
+      "2021.0": {
+        "manuelle": 12
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 2,
+        "manuelle": 6
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 3
+      },
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "1917.0": {
+        "manuelle": 1
+      }
+    },
+    "i 30": {
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "accent": {
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "i 20": {
+      "2018.0": {
+        "manuelle": 4
+      },
+      "2022.0": {
+        "manuelle": 20,
+        "automatique": 3
+      },
+      "2021.0": {
+        "manuelle": 7,
+        "automatique": 2
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2025.0": {
+        "automatique": 2
+      },
+      "2015.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2019.0": {
+        "manuelle": 6
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2024.0": {
+        "manuelle": 3
+      }
+    },
+    "elantra": {
+      "2017.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 2
+      }
+    },
+    "ix 35": {
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      }
+    },
+    "bayon": {
+      "2022.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      }
+    },
+    "veloster": {
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "santa fe": {
+      "2015.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2005.0": {
+        "automatique": 1
+      }
+    },
+    "venue": {
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "creta": {
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2020.0": {
+        "automatique": 2
+      }
+    },
+    "h-1": {
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "trajet": {
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "h-100": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "citroen": {
+    "c35": {
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "jumpy": {
+      "2020.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "manuelle": 6
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 2
+      }
+    },
+    "c3": {
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2006.0": {
+        "manuelle": 9
+      },
+      "2010.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 17,
+        "automatique": 2
+      },
+      "2018.0": {
+        "manuelle": 12,
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 5
+      },
+      "2007.0": {
+        "manuelle": 4
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2005.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 3
+      },
+      "2002.0": {
+        "manuelle": 2
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 5,
+        "automatique": 2
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "c-elysée": {
+      "2018.0": {
+        "manuelle": 3
+      },
+      "2015.0": {
+        "manuelle": 7
+      },
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 4
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2019.0": {
+        "manuelle": 2
+      }
+    },
+    "c4 cactus": {
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 5
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "berlingo": {
+      "2021.0": {
+        "manuelle": 13
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2011.0": {
+        "manuelle": 4
+      },
+      "2023.0": {
+        "manuelle": 4
+      },
+      "1111.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 4
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 7,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 4
+      },
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 5
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "c1": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "c5": {
+      "2012.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2011.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 5
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "1220.0": {
+        "manuelle": 2
+      },
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "c4": {
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      }
+    },
+    "nemo": {
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2017.0": {
+        "manuelle": 4
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "ds3": {
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "ds4": {
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 2
+      }
+    },
+    "grand c4 picasso": {
+      "2013.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "c4 aircross": {
+      "2023.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "c15": {
+      "2004.0": {
+        "manuelle": 2
+      },
+      "1993.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "xsara picasso": {
+      "1998.0": {
+        "manuelle": 1
+      }
+    },
+    "jumper": {
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "ds": {
+      "2020.0": {
+        "automatique": 1
+      },
+      "1974.0": {
+        "manuelle": 1
+      },
+      "1970.0": {
+        "manuelle": 1
+      }
+    },
+    "c3 pluriel": {
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "c2": {
+      "2007.0": {
+        "manuelle": 3
+      }
+    },
+    "saxo": {
+      "2000.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "automatique": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      }
+    },
+    "🔸 clim, direction assistée, vitres électriques": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "ds5": {
+      "2012.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      }
+    },
+    "c3 picasso": {
+      "2022.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "ax": {
+      "1990.0": {
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 2
+      },
+      "1993.0": {
+        "manuelle": 1
+      }
+    },
+    "c4 picasso": {
+      "2013.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      }
+    },
+    "zx": {
+      "2023.0": {
+        "manuelle": 1
+      }
+    },
+    "ds23": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "xsara": {
+      "2000.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "volkswagen": {
+    "golf 7": {
+      "2016.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2018.0": {
+        "automatique": 2,
+        "manuelle": 7
+      },
+      "2015.0": {
+        "automatique": 2,
+        "manuelle": 5
+      },
+      "2019.0": {
+        "automatique": 3,
+        "manuelle": 5
+      },
+      "2017.0": {
+        "manuelle": 8
+      },
+      "2020.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2013.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2108.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 3,
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "automatique": 1
+      }
+    },
+    "t-roc": {
+      "9900.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 3
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 2
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "polo": {
+      "2022.0": {
+        "manuelle": 19,
+        "automatique": 2
+      },
+      "2001.0": {
+        "manuelle": 8
+      },
+      "2013.0": {
+        "manuelle": 7
+      },
+      "2014.0": {
+        "manuelle": 6
+      },
+      "2018.0": {
+        "manuelle": 3
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 5
+      },
+      "2002.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 7,
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 3
+      },
+      "2000.0": {
+        "manuelle": 3
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2021.0": {
+        "manuelle": 9
+      },
+      "2007.0": {
+        "manuelle": 9,
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 8
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 5
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "1997.0": {
+        "manuelle": 4
+      },
+      "2006.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 5
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 3
+      },
+      "1991.0": {
+        "manuelle": 2
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      }
+    },
+    "amarok": {
+      "2013.0": {
+        "manuelle": 6
+      },
+      "2012.0": {
+        "manuelle": 3
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 6
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      }
+    },
+    "golf 8": {
+      "2021.0": {
+        "manuelle": 12,
+        "automatique": 3
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 7,
+        "manuelle": 2
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "0.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "1987.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      }
+    },
+    "passat": {
+      "2019.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 9
+      },
+      "2021.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2008.0": {
+        "manuelle": 6
+      },
+      "2000.0": {
+        "manuelle": 4
+      },
+      "2003.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 3
+      },
+      "2011.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "2005.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2001.0": {
+        "manuelle": 4
+      },
+      "1984.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 2
+      },
+      "1999.0": {
+        "manuelle": 1
+      }
+    },
+    "golf 6": {
+      "2010.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2012.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 4,
+        "automatique": 4
+      },
+      "2009.0": {
+        "manuelle": 3,
+        "automatique": 1
+      }
+    },
+    "tiguan": {
+      "2015.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2009.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 3
+      },
+      "2013.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 1,
+        "automatique": 3
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      }
+    },
+    "touareg": {
+      "2010.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 2
+      },
+      "2006.0": {
+        "automatique": 1
+      }
+    },
+    "golf": {
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 8
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2222.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 3,
+        "manuelle": 8
+      },
+      "2019.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 6,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 6,
+        "automatique": 2
+      },
+      "2012.0": {
+        "manuelle": 5
+      },
+      "2013.0": {
+        "manuelle": 8,
+        "automatique": 1
+      },
+      "2018.0": {
+        "manuelle": 5,
+        "automatique": 4
+      },
+      "2001.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 4
+      },
+      "1999.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 2
+      },
+      "2021.0": {
+        "automatique": 4,
+        "manuelle": 2
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1993.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 2
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "2052.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "1994.0": {
+        "manuelle": 1
+      },
+      "1984.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "1990.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "caddy": {
+      "2020.0": {
+        "automatique": 1,
+        "manuelle": 4
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 8
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "beetle": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "golf 4": {
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      }
+    },
+    "jetta": {
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 2,
+        "manuelle": 6
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "9999.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "1991.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "1997.0": {
+        "manuelle": 1
+      }
+    },
+    "golf 2": {
+      "1987.0": {
+        "manuelle": 1
+      },
+      "1990.0": {
+        "manuelle": 2
+      },
+      "1985.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "passat cc": {
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 2
+      }
+    },
+    "transporter": {
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "1980.0": {
+        "automatique": 1
+      },
+      "1998.0": {
+        "manuelle": 2
+      },
+      "1994.0": {
+        "manuelle": 1
+      }
+    },
+    "golf 5": {
+      "2006.0": {
+        "manuelle": 3
+      },
+      "2007.0": {
+        "automatique": 1
+      }
+    },
+    "touran": {
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "scirocco": {
+      "2011.0": {
+        "automatique": 1
+      }
+    },
+    "lt": {
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "vento": {
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "golf 3": {
+      "1997.0": {
+        "manuelle": 2
+      },
+      "1111.0": {
+        "automatique": 1
+      }
+    },
+    "new beetle": {
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "up": {
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "golf plus": {
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "gol": {
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "crafter": {
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "fox": {
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "bora": {
+      "2003.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "mercedes-benz": {
+    "classe c coupe": {
+      "2010.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2003.0": {
+        "automatique": 1
+      }
+    },
+    "classe a": {
+      "2020.0": {
+        "automatique": 5,
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 6
+      },
+      "2013.0": {
+        "manuelle": 2,
+        "automatique": 3
+      },
+      "2014.0": {
+        "automatique": 1,
+        "manuelle": 4
+      },
+      "2017.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "1986.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "classe e": {
+      "2017.0": {
+        "automatique": 4
+      },
+      "2018.0": {
+        "automatique": 5
+      },
+      "2016.0": {
+        "automatique": 2
+      },
+      "2008.0": {
+        "automatique": 5
+      },
+      "2010.0": {
+        "automatique": 6
+      },
+      "2002.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 4
+      },
+      "2022.0": {
+        "automatique": 2
+      },
+      "2011.0": {
+        "automatique": 6,
+        "manuelle": 1
+      },
+      "2003.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 4
+      },
+      "2013.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 4
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2005.0": {
+        "automatique": 1
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 2
+      },
+      "2001.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "automatique": 1
+      }
+    },
+    "classe cla": {
+      "2020.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 3
+      },
+      "2024.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 11
+      },
+      "2019.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 2
+      },
+      "2013.0": {
+        "automatique": 3
+      },
+      "2015.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "classe ml": {
+      "2008.0": {
+        "automatique": 2
+      },
+      "2007.0": {
+        "automatique": 2
+      },
+      "2000.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      }
+    },
+    "classe c": {
+      "2014.0": {
+        "automatique": 6
+      },
+      "2022.0": {
+        "automatique": 5
+      },
+      "2008.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2010.0": {
+        "automatique": 8,
+        "manuelle": 1
+      },
+      "2013.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 6
+      },
+      "2016.0": {
+        "automatique": 5
+      },
+      "2011.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2023.0": {
+        "automatique": 3
+      },
+      "2018.0": {
+        "automatique": 4
+      },
+      "2017.0": {
+        "automatique": 4
+      },
+      "2020.0": {
+        "automatique": 5
+      },
+      "2019.0": {
+        "automatique": 6,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2007.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      }
+    },
+    "classe glk": {
+      "2011.0": {
+        "automatique": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "classe b": {
+      "2021.0": {
+        "automatique": 2
+      },
+      "2008.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "classe gle": {
+      "2021.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "classe gla": {
+      "2016.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 3
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2018.0": {
+        "automatique": 3
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "210": {
+      "2015.0": {
+        "automatique": 2
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "classe glc": {
+      "2016.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2020.0": {
+        "automatique": 3
+      },
+      "2018.0": {
+        "automatique": 2
+      },
+      "2025.0": {
+        "automatique": 2
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2024.0": {
+        "automatique": 2
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "utilitaire": {
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "250": {
+      "2017.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "1983.0": {
+        "manuelle": 1
+      },
+      "1990.0": {
+        "manuelle": 1
+      }
+    },
+    "vito": {
+      "2020.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      }
+    },
+    "220": {
+      "2005.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "amg gt": {
+      "2016.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "automatique": 1
+      }
+    },
+    "classe slk": {
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "sprinter": {
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "classe sls": {
+      "2008.0": {
+        "automatique": 2
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 2
+      }
+    },
+    "classe clk": {
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "automatique": 1
+      }
+    },
+    "classe cls": {
+      "2008.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      }
+    },
+    "mercedes-benz.classe a": {
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "classe gl": {
+      "2012.0": {
+        "automatique": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      }
+    },
+    "190": {
+      "2021.0": {
+        "automatique": 1
+      },
+      "1984.0": {
+        "manuelle": 1
+      },
+      "1991.0": {
+        "manuelle": 1
+      }
+    },
+    "230": {
+      "1988.0": {
+        "manuelle": 1
+      }
+    },
+    "viano": {
+      "1988.0": {
+        "automatique": 1
+      }
+    },
+    "classe cl": {
+      "2024.0": {
+        "automatique": 1
+      }
+    },
+    "classe m": {
+      "2007.0": {
+        "automatique": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "e coupé": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "classe sl": {
+      "2010.0": {
+        "automatique": 1
+      }
+    },
+    "270": {
+      "2003.0": {
+        "manuelle": 1
+      }
+    },
+    "citan": {
+      "2021.0": {
+        "manuelle": 1
+      }
+    },
+    "240": {
+      "1981.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "jeep": {
+    "wrangler": {
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      }
+    },
+    "grand cherokee": {
+      "2018.0": {
+        "automatique": 2
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "automatique": 1
+      }
+    },
+    "compass": {
+      "2017.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 2
+      }
+    },
+    "cherokee": {
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "patriot": {
+      "2017.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "kaisser": {
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "commander": {
+      "2020.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "fiat": {
+    "grande punto": {
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 6
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2011.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      }
+    },
+    "panda": {
+      "2005.0": {
+        "manuelle": 3
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 4
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "manuelle": 3
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "500": {
+      "2012.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "500c": {
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "fiorino": {
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2022.0": {
+        "manuelle": 6
+      },
+      "2021.0": {
+        "manuelle": 7
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2024.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 2
+      }
+    },
+    "palio": {
+      "2004.0": {
+        "manuelle": 3
+      },
+      "2000.0": {
+        "manuelle": 4
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "siena": {
+      "2005.0": {
+        "manuelle": 3
+      },
+      "2006.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 2
+      }
+    },
+    "doblo": {
+      "2021.0": {
+        "manuelle": 3
+      },
+      "2015.0": {
+        "manuelle": 5
+      },
+      "2017.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2007.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 5
+      },
+      "2025.0": {
+        "manuelle": 5
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 2
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 2
+      }
+    },
+    "punto": {
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 3
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 4
+      },
+      "1998.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 3
+      },
+      "1996.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "1984.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "uno": {
+      "2003.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1988.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      }
+    },
+    "fiat.punto": {
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "ducato": {
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "tipo": {
+      "2021.0": {
+        "manuelle": 6
+      },
+      "2020.0": {
+        "manuelle": 2
+      },
+      "1993.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 4
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "fiat.doblo": {
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "500x": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "500l": {
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "marea": {
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "brava": {
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      }
+    },
+    "scudo": {
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "tempra": {
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "linea": {
+      "1111.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "bravo": {
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "albea": {
+      "1996.0": {
+        "automatique": 1
+      }
+    },
+    "pinto": {
+      "1998.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "dacia": {
+    "sandero": {
+      "2014.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "logan mcv": {
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "duster": {
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 4
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "1220.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    },
+    "dokker": {
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 3
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2021.0": {
+        "manuelle": 7
+      },
+      "2020.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "logan": {
+      "2012.0": {
+        "manuelle": 4
+      },
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      }
+    },
+    "lodgy": {
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "feux : led": {
+      "2022.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "honda": {
+    "brio": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "civic": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "cr-v": {
+      "2022.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "city": {
+      "2021.0": {
+        "automatique": 4
+      },
+      "2020.0": {
+        "automatique": 2
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "brio amaze": {
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 2
+      }
+    },
+    "hr-v": {
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "nissan": {
+    "micra": {
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2003.0": {
+        "manuelle": 1
+      }
+    },
+    "terrano": {
+      "2001.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "juke": {
+      "2016.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2013.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 3
+      }
+    },
+    "qashqai": {
+      "2017.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2018.0": {
+        "manuelle": 6,
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2021.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 7
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 6,
+        "automatique": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "x-trail": {
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 2
+      }
+    },
+    "sunny": {
+      "2015.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "patrol gr": {
+      "2006.0": {
+        "manuelle": 2
+      },
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "urvan": {
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "pick up": {
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      }
+    },
+    "king cab": {
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "navara": {
+      "2006.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 3
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      }
+    },
+    "patrol": {
+      "1992.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      }
+    },
+    "almera": {
+      "1996.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "renault": {
+    "clio": {
+      "2017.0": {
+        "manuelle": 8,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 12,
+        "automatique": 1
+      },
+      "2005.0": {
+        "manuelle": 5
+      },
+      "2021.0": {
+        "manuelle": 21,
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 14,
+        "automatique": 2
+      },
+      "2018.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 9
+      },
+      "2010.0": {
+        "automatique": 2,
+        "manuelle": 6
+      },
+      "2014.0": {
+        "automatique": 1,
+        "manuelle": 7
+      },
+      "2013.0": {
+        "manuelle": 6
+      },
+      "2025.0": {
+        "manuelle": 3
+      },
+      "2006.0": {
+        "manuelle": 4
+      },
+      "2004.0": {
+        "manuelle": 4
+      },
+      "2007.0": {
+        "manuelle": 4
+      },
+      "1991.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 4
+      },
+      "2009.0": {
+        "manuelle": 3
+      },
+      "2003.0": {
+        "manuelle": 11,
+        "automatique": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 5
+      },
+      "2008.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2002.0": {
+        "manuelle": 3,
+        "automatique": 2
+      },
+      "1996.0": {
+        "automatique": 2,
+        "manuelle": 6
+      },
+      "2001.0": {
+        "manuelle": 5
+      },
+      "2000.0": {
+        "manuelle": 5
+      },
+      "2011.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2121.0": {
+        "manuelle": 1
+      },
+      "1993.0": {
+        "manuelle": 1
+      }
+    },
+    "megane": {
+      "1999.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 10
+      },
+      "2020.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2005.0": {
+        "manuelle": 7
+      },
+      "2011.0": {
+        "manuelle": 4
+      },
+      "2012.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 8
+      },
+      "2021.0": {
+        "manuelle": 5
+      },
+      "2004.0": {
+        "manuelle": 5
+      },
+      "2008.0": {
+        "manuelle": 3
+      },
+      "2017.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2003.0": {
+        "manuelle": 5
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "capture": {
+      "2014.0": {
+        "manuelle": 4,
+        "automatique": 3
+      },
+      "2020.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "automatique": 2,
+        "manuelle": 1
+      }
+    },
+    "scenic": {
+      "2000.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      }
+    },
+    "super 5": {
+      "1991.0": {
+        "manuelle": 1
+      },
+      "1963.0": {
+        "manuelle": 1
+      }
+    },
+    "grand scenic": {
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "symbol": {
+      "2010.0": {
+        "manuelle": 7
+      },
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 8
+      },
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2013.0": {
+        "manuelle": 4
+      },
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 4
+      },
+      "2012.0": {
+        "manuelle": 2
+      }
+    },
+    "megane estate": {
+      "2004.0": {
+        "manuelle": 2
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2222.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      }
+    },
+    "vel satis": {
+      "2003.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      }
+    },
+    "r4": {
+      "1980.0": {
+        "manuelle": 1
+      }
+    },
+    "fluence": {
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2013.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      }
+    },
+    "megane cc": {
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      }
+    },
+    "express": {
+      "1990.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2024.0": {
+        "manuelle": 2
+      },
+      "1995.0": {
+        "manuelle": 2
+      },
+      "1998.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "trafic": {
+      "2017.0": {
+        "automatique": 1
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "kangoo": {
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "automatique": 1
+      },
+      "2001.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "nevada": {
+      "1994.0": {
+        "manuelle": 1
+      }
+    },
+    "r21": {
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "19": {
+      "2023.0": {
+        "automatique": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "1991.0": {
+        "automatique": 1
+      }
+    },
+    "master": {
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "laguna": {
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2004.0": {
+        "automatique": 1
+      }
+    },
+    "espace": {
+      "2000.0": {
+        "automatique": 1
+      },
+      "2004.0": {
+        "manuelle": 1
+      }
+    },
+    "r19": {
+      "1992.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "kadjar": {
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 4
+      },
+      "2019.0": {
+        "automatique": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "r9": {
+      "1981.0": {
+        "manuelle": 1
+      }
+    },
+    "koleos": {
+      "2020.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "twingo": {
+      "1994.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "captur": {
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      }
+    },
+    "megane cabriolet": {
+      "2004.0": {
+        "manuelle": 1
+      }
+    },
+    "r5": {
+      "1989.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "audi": {
+    "a3": {
+      "2022.0": {
+        "automatique": 4
+      },
+      "2020.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2017.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 4,
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 4
+      }
+    },
+    "q7": {
+      "2007.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "automatique": 1
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      }
+    },
+    "a4": {
+      "2014.0": {
+        "manuelle": 4
+      },
+      "2012.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2017.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2004.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2018.0": {
+        "manuelle": 2,
+        "automatique": 3
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 7
+      },
+      "2008.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 3
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      }
+    },
+    "q3": {
+      "2020.0": {
+        "automatique": 3
+      },
+      "2017.0": {
+        "automatique": 4
+      },
+      "2022.0": {
+        "automatique": 4,
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      }
+    },
+    "a2": {
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "q5": {
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2012.0": {
+        "automatique": 1
+      }
+    },
+    "80": {
+      "1992.0": {
+        "manuelle": 2
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "1986.0": {
+        "manuelle": 1
+      }
+    },
+    "a1": {
+      "2012.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 2
+      },
+      "2024.0": {
+        "automatique": 1
+      }
+    },
+    "a6": {
+      "2009.0": {
+        "automatique": 1
+      },
+      "2012.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "s2": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "a5": {
+      "2018.0": {
+        "automatique": 3
+      },
+      "2009.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "afficher le numéro": {
+      "2021.0": {
+        "automatique": 1
+      }
+    },
+    "a7": {
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "audi.q5": {
+      "2012.0": {
+        "automatique": 1
+      }
+    },
+    "s5": {
+      "2010.0": {
+        "automatique": 1
+      }
+    },
+    "s3": {
+      "2021.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "chery": {
+    "tiggo": {
+      "2022.0": {
+        "automatique": 12
+      },
+      "2021.0": {
+        "automatique": 8,
+        "manuelle": 3
+      },
+      "2023.0": {
+        "automatique": 3
+      },
+      "2024.0": {
+        "automatique": 3
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2026.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 10
+      },
+      "2028.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1,
+        "manuelle": 1
+      }
+    },
+    "qq": {
+      "2022.0": {
+        "manuelle": 3
+      },
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 5
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      }
+    },
+    "v5": {
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "a5": {
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "a3": {
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      }
+    },
+    "qq6": {
+      "2020.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "ssangyong": {
+    "tivoli": {
+      "2021.0": {
+        "manuelle": 6,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 3,
+        "automatique": 4
+      },
+      "2018.0": {
+        "manuelle": 4,
+        "automatique": 2
+      },
+      "2019.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2016.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2020.0": {
+        "manuelle": 2
+      },
+      "706.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "korando": {
+      "2017.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "automatique": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "ceo": {
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "actyon": {
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "automatique": 1,
+        "manuelle": 2
+      }
+    },
+    "kyron": {
+      "2009.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "rexton": {
+      "2012.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "mg": {
+    "zs": {
+      "2017.0": {
+        "automatique": 2
+      },
+      "2020.0": {
+        "automatique": 3,
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 9,
+        "manuelle": 2
+      },
+      "2024.0": {
+        "manuelle": 3,
+        "automatique": 2
+      },
+      "2021.0": {
+        "manuelle": 3,
+        "automatique": 2
+      },
+      "2019.0": {
+        "automatique": 4,
+        "manuelle": 2
+      },
+      "2023.0": {
+        "automatique": 2
+      }
+    },
+    "hs": {
+      "2022.0": {
+        "automatique": 4
+      },
+      "2025.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 2
+      }
+    },
+    "3": {
+      "2022.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3,
+        "automatique": 3
+      },
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "e-zs": {
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "5": {
+      "2020.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2025.0": {
+        "manuelle": 1
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      }
+    },
+    "gt": {
+      "2018.0": {
+        "automatique": 2
+      },
+      "2023.0": {
+        "automatique": 3,
+        "manuelle": 1
+      }
+    },
+    "ehs": {
+      "2024.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "seat": {
+    "leon": {
+      "2016.0": {
+        "manuelle": 5
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 3
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 5
+      },
+      "2025.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2071.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 1,
+        "automatique": 1
+      }
+    },
+    "arosa": {
+      "2023.0": {
+        "automatique": 4
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "ibiza": {
+      "2023.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2021.0": {
+        "manuelle": 10
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2018.0": {
+        "manuelle": 5
+      },
+      "2019.0": {
+        "automatique": 2,
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2024.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 3
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2013.0": {
+        "manuelle": 2
+      }
+    },
+    "toledo": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "altea xl": {
+      "2024.0": {
+        "automatique": 1
+      }
+    },
+    "leon st": {
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "automatique": 1
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "alhambra": {
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "tarraco": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "altea": {
+      "2021.0": {
+        "automatique": 3
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "seat.leon": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "cordoba": {
+      "2012.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "mini": {
+    "one": {
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      }
+    },
+    "cooper": {
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      }
+    },
+    "country man": {
+      "2013.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "land rover": {
+    "range rover sport": {
+      "2019.0": {
+        "automatique": 3
+      },
+      "2016.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 3
+      },
+      "2017.0": {
+        "automatique": 4
+      },
+      "2018.0": {
+        "automatique": 2
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2012.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 2
+      },
+      "2009.0": {
+        "automatique": 3
+      }
+    },
+    "range rover evoque": {
+      "2020.0": {
+        "automatique": 2
+      },
+      "2015.0": {
+        "automatique": 1
+      },
+      "2014.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2016.0": {
+        "automatique": 6,
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 5
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "range rover": {
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "defender": {
+      "2020.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "iveco": {
+    "daily": {
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "mazda": {
+    "bt-50": {
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "2": {
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "3": {
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 3
+      },
+      "2012.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      }
+    },
+    "cx7": {
+      "2013.0": {
+        "automatique": 2
+      }
+    },
+    "cx-5": {
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 1
+      }
+    },
+    "mx3": {
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "e2000": {
+      "2016.0": {
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    },
+    "6": {
+      "2014.0": {
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "haval": {
+    "h6": {
+      "2019.0": {
+        "automatique": 7
+      },
+      "2021.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 8
+      },
+      "2020.0": {
+        "automatique": 5
+      },
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "jolion": {
+      "2022.0": {
+        "automatique": 8
+      },
+      "2024.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "mahindra": {
+    "hover": {
+      "2021.0": {
+        "manuelle": 7,
+        "automatique": 3
+      },
+      "2019.0": {
+        "manuelle": 5,
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1,
+        "manuelle": 2
+      },
+      "2023.0": {
+        "manuelle": 8
+      },
+      "2016.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 7
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "0.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 1
+      }
+    },
+    "scorpion": {
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 3
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "2023.0": {
+        "manuelle": 1
+      }
+    },
+    "autres.autres": {
+      "2018.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "opel": {
+    "omega": {
+      "1996.0": {
+        "manuelle": 1
+      },
+      "1997.0": {
+        "manuelle": 1
+      }
+    },
+    "corsa": {
+      "1996.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2002.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "manuelle": 6
+      },
+      "2014.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "0.0": {
+        "manuelle": 1
+      },
+      "1999.0": {
+        "manuelle": 3
+      },
+      "1997.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "9999.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 5
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "automatique": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "1998.0": {
+        "manuelle": 1
+      }
+    },
+    "astra": {
+      "2008.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2010.0": {
+        "manuelle": 2,
+        "automatique": 2
+      },
+      "2015.0": {
+        "manuelle": 1,
+        "automatique": 3
+      },
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2006.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2005.0": {
+        "manuelle": 2
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      },
+      "1987.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "combo": {
+      "2017.0": {
+        "manuelle": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      }
+    },
+    "vectra": {
+      "2008.0": {
+        "manuelle": 1
+      }
+    },
+    "gt": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "mokka": {
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2015.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "vivaro": {
+      "2010.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      }
+    },
+    "antara": {
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "automatique": 1
+      }
+    },
+    "opc": {
+      "1999.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    },
+    "opel.corsa": {
+      "2000.0": {
+        "automatique": 1
+      }
+    },
+    "kadett": {
+      "1982.0": {
+        "manuelle": 1
+      },
+      "1990.0": {
+        "manuelle": 3
+      }
+    },
+    "frontera": {
+      "2000.0": {
+        "manuelle": 1
+      }
+    },
+    "agila": {
+      "2002.0": {
+        "manuelle": 1
+      }
+    },
+    "zafira": {
+      "2010.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "mitsubishi": {
+    "l200": {
+      "2013.0": {
+        "automatique": 2,
+        "manuelle": 1
+      },
+      "2024.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "0.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "1996.0": {
+        "manuelle": 1
+      }
+    },
+    "pajero sport": {
+      "2010.0": {
+        "automatique": 1
+      },
+      "1999.0": {
+        "manuelle": 2
+      },
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "lancer": {
+      "2007.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "automatique": 2
+      },
+      "2004.0": {
+        "manuelle": 3
+      },
+      "1997.0": {
+        "manuelle": 1
+      }
+    },
+    "canter": {
+      "2019.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "pajero": {
+      "1993.0": {
+        "manuelle": 2
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "automatique": 1
+      }
+    },
+    "outlander": {
+      "2012.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "isuzu": {
+    "landwind": {
+      "1996.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "automatique": 2
+      },
+      "1993.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "automatique": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      }
+    },
+    "d-max": {
+      "2021.0": {
+        "manuelle": 3
+      },
+      "2019.0": {
+        "automatique": 4,
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      },
+      "2003.0": {
+        "automatique": 1
+      },
+      "2025.0": {
+        "manuelle": 5
+      },
+      "2006.0": {
+        "manuelle": 1
+      },
+      "1983.0": {
+        "manuelle": 1
+      },
+      "2024.0": {
+        "manuelle": 2
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "manuelle": 3
+      },
+      "1993.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "manuelle": 2
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2016.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2026.0": {
+        "manuelle": 4
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 2
+      },
+      "2005.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2018.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "automatique": 1
+      }
+    },
+    "trooper": {
+      "2022.0": {
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2000.0": {
+        "manuelle": 2
+      },
+      "0.0": {
+        "automatique": 1
+      },
+      "1992.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "wallyscar": {
+    "719": {
+      "2023.0": {
+        "manuelle": 2
+      }
+    },
+    "iris": {
+      "2018.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      }
+    }
+  },
+  "byd": {
+    "f3": {
+      "2025.0": {
+        "automatique": 1
+      },
+      "201.0": {
+        "manuelle": 1
+      }
+    },
+    "220": {
+      "2025.0": {
+        "automatique": 1
+      }
+    },
+    "f1": {
+      "2022.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "rover": {
+    "over.range rover evoque": {
+      "2013.0": {
+        "automatique": 4
+      },
+      "2017.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "over.range rover": {
+      "2013.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2019.0": {
+        "automatique": 1
+      }
+    },
+    "over.range rover sport": {
+      "2019.0": {
+        "automatique": 2
+      },
+      "2009.0": {
+        "manuelle": 1,
+        "automatique": 1
+      }
+    },
+    "45": {
+      "1997.0": {
+        "manuelle": 3
+      }
+    },
+    "serie 800": {
+      "2020.0": {
+        "automatique": 1
+      }
+    },
+    "sd1": {
+      "2014.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "jaguar": {
+    "xj": {
+      "2016.0": {
+        "automatique": 1
+      }
+    },
+    "x-type": {
+      "2009.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "automatique": 1
+      }
+    },
+    "f-type": {
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "xf": {
+      "2012.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "ac": {
+    "seven": {
+      "2022.0": {
+        "automatique": 1
+      },
+      "1960.0": {
+        "manuelle": 1
+      },
+      "9211.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "cobra": {
+      "2025.0": {
+        "automatique": 2
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "9222.0": {
+        "automatique": 2
+      },
+      "2608.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "gt 40": {
+      "2000.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "geely": {
+    "gk-gt": {
+      "2021.0": {
+        "automatique": 2
+      },
+      "2022.0": {
+        "manuelle": 1
+      }
+    },
+    "gk-gl": {
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 3
+      },
+      "2022.0": {
+        "automatique": 3,
+        "manuelle": 1
+      },
+      "2024.0": {
+        "automatique": 3
+      }
+    },
+    "gk-gs": {
+      "2024.0": {
+        "automatique": 3
+      },
+      "2021.0": {
+        "manuelle": 1,
+        "automatique": 1
+      }
+    },
+    "lc": {
+      "2021.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "chevrolet": {
+    "spark": {
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2013.0": {
+        "manuelle": 2
+      },
+      "2012.0": {
+        "manuelle": 1,
+        "automatique": 2
+      },
+      "2016.0": {
+        "manuelle": 1
+      }
+    },
+    "aveo": {
+      "2012.0": {
+        "manuelle": 3
+      },
+      "2010.0": {
+        "manuelle": 2
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "manuelle": 1
+      },
+      "2008.0": {
+        "manuelle": 2
+      },
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 2
+      },
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      },
+      "2006.0": {
+        "manuelle": 1
+      }
+    },
+    "cruze": {
+      "2013.0": {
+        "manuelle": 1
+      },
+      "2014.0": {
+        "manuelle": 1
+      },
+      "2019.0": {
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 2
+      }
+    },
+    "captiva": {
+      "2023.0": {
+        "automatique": 2
+      }
+    },
+    "optra": {
+      "2008.0": {
+        "manuelle": 1
+      },
+      "2005.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2007.0": {
+        "manuelle": 2
+      },
+      "2006.0": {
+        "manuelle": 2
+      }
+    },
+    "cavalier": {
+      "2019.0": {
+        "manuelle": 1
+      }
+    },
+    "caprice": {
+      "2007.0": {
+        "manuelle": 1
+      }
+    },
+    "metro": {
+      "2018.0": {
+        "manuelle": 1
+      }
+    },
+    "s-10": {
+      "2020.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "lire plus": {
+    "clio": {
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "alfa romeo": {
+    "giulietta": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2011.0": {
+        "manuelle": 2
+      }
+    },
+    "mito": {
+      "2013.0": {
+        "manuelle": 1
+      }
+    },
+    "147": {
+      "2009.0": {
+        "manuelle": 1
+      }
+    },
+    "145": {
+      "1998.0": {
+        "manuelle": 1
+      }
+    },
+    "gt": {
+      "2008.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "dongfeng": {
+    "s50": {
+      "2021.0": {
+        "manuelle": 4
+      },
+      "2019.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2020.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "autres": {
+    "autres": {
+      "2021.0": {
+        "manuelle": 2,
+        "automatique": 1
+      },
+      "2024.0": {
+        "automatique": 4
+      },
+      "2004.0": {
+        "manuelle": 1
+      },
+      "2023.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2018.0": {
+        "manuelle": 3
+      },
+      "2019.0": {
+        "manuelle": 2
+      },
+      "2010.0": {
+        "manuelle": 1
+      },
+      "2025.0": {
+        "manuelle": 1,
+        "automatique": 1
+      },
+      "2245.0": {
+        "manuelle": 1
+      },
+      "1990.0": {
+        "manuelle": 1
+      },
+      "2017.0": {
+        "manuelle": 2
+      },
+      "2000.0": {
+        "manuelle": 1
+      },
+      "2009.0": {
+        "manuelle": 2
+      },
+      "2020.0": {
+        "automatique": 1
+      },
+      "2002.0": {
+        "manuelle": 1
+      },
+      "1995.0": {
+        "manuelle": 1
+      },
+      "2001.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "infiniti": {
+    "finiti": {
+      "2018.0": {
+        "automatique": 1
+      },
+      "2017.0": {
+        "automatique": 1
+      }
+    },
+    "fx35": {
+      "2009.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "skoda": {
+    "fabia": {
+      "2018.0": {
+        "automatique": 1,
+        "manuelle": 3
+      },
+      "2021.0": {
+        "manuelle": 3,
+        "automatique": 1
+      },
+      "2023.0": {
+        "manuelle": 1
+      },
+      "2022.0": {
+        "manuelle": 4
+      },
+      "2016.0": {
+        "manuelle": 2
+      },
+      "2024.0": {
+        "automatique": 1
+      }
+    },
+    "octavia": {
+      "2016.0": {
+        "automatique": 1
+      },
+      "2021.0": {
+        "automatique": 2
+      },
+      "2018.0": {
+        "automatique": 1
+      },
+      "2020.0": {
+        "automatique": 1,
+        "manuelle": 1
+      },
+      "2022.0": {
+        "automatique": 1
+      },
+      "2023.0": {
+        "automatique": 1
+      },
+      "2015.0": {
+        "automatique": 1
+      }
+    },
+    "yeti": {
+      "2022.0": {
+        "automatique": 1
+      }
+    },
+    "roomster": {
+      "2008.0": {
+        "manuelle": 3
+      }
+    }
+  },
+  "volvo": {
+    "xc90": {
+      "2024.0": {
+        "automatique": 1
+      }
+    },
+    "xc70": {
+      "2007.0": {
+        "manuelle": 1
+      }
+    },
+    "xc60": {
+      "2023.0": {
+        "automatique": 1
+      }
+    },
+    "s80": {
+      "2011.0": {
+        "automatique": 1
+      }
+    },
+    "s60": {
+      "2010.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "pré-installation pour distronic": {
+    "affichage central": {
+      "2024.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "hummer": {
+    "h2": {
+      "2017.0": {
+        "manuelle": 1
+      }
+    },
+    "h3": {
+      "2010.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "lancia": {
+    "ypsilon": {
+      "2015.0": {
+        "manuelle": 2
+      },
+      "2011.0": {
+        "manuelle": 1
+      },
+      "2012.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "cadillac": {
+    "cts": {
+      "2014.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "changhe": {
+    "ideal": {
+      "2022.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "smart": {
+    "crossblade": {
+      "2014.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "acura": {
+    "tsx": {
+      "2024.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "gmc": {
+    "yukon": {
+      "2023.0": {
+        "automatique": 1
+      }
+    }
+  },
+  "daihatsu": {
+    "terios": {
+      "1998.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "aston martin": {
+    "dbs": {
+      "2020.0": {
+        "manuelle": 1
+      }
+    }
+  },
+  "acrea": {
+    "zest": {
+      "2022.0": {
+        "manuelle": 1
+      }
+    }
+  }
+}
