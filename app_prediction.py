@@ -29,8 +29,32 @@ def load_model_and_preprocessors():
         st.info("Veuillez d'abord exécuter le notebook modeling.ipynb pour sauvegarder le modèle.")
         return None, None, None, None
 
+@st.cache_data
+def load_marque_modele_mapping():
+    """Charge le mapping marque-modèle depuis le fichier CSV"""
+    try:
+        # Essayer de charger le fichier nettoyé en premier
+        try:
+            df = pd.read_csv('tayara_cars_cleaned.csv')
+        except:
+            df = pd.read_csv('tayara_cars_all_pages.csv')
+        
+        # Créer un dictionnaire marque -> liste de modèles
+        marque_modele_dict = {}
+        df_valid = df[(df['marque'].notna()) & (df['modele'].notna())]
+        
+        for marque in df_valid['marque'].unique():
+            modeles = df_valid[df_valid['marque'] == marque]['modele'].unique()
+            marque_modele_dict[marque] = sorted(list(modeles))
+        
+        return marque_modele_dict
+    except Exception as e:
+        st.warning(f"⚠️ Impossible de charger le mapping marque-modèle: {e}")
+        return None
+
 # Charger les objets
 model, scaler, label_encoders, preprocessing_info = load_model_and_preprocessors()
+marque_modele_dict = load_marque_modele_mapping()
 
 if model is not None:
     # Afficher les informations du modèle
@@ -126,13 +150,21 @@ if model is not None:
                 index=0
             )
         
-        # Modèle
+        # Modèle - Filtré par marque si mapping disponible
         if 'modele' in label_encoders:
-            modele_options = list(label_encoders['modele'].classes_)
+            if marque_modele_dict and input_data.get('marque') in marque_modele_dict:
+                # Filtrer les modèles selon la marque sélectionnée
+                modele_options = marque_modele_dict[input_data['marque']]
+                # S'assurer que les modèles sont dans les classes du label encoder
+                modele_options = [m for m in modele_options if m in label_encoders['modele'].classes_]
+            else:
+                # Fallback: tous les modèles
+                modele_options = list(label_encoders['modele'].classes_)
+            
             input_data['modele'] = st.selectbox(
                 "Modèle",
                 modele_options,
-                index=0
+                index=0 if len(modele_options) > 0 else 0
             )
         
         # Type de carrosserie
