@@ -19,7 +19,7 @@ st.markdown("---")
 def load_model_and_preprocessors():
     """Charge le modèle et tous les objets de preprocessing"""
     try:
-        model = joblib.load('random_forest_model.pkl')
+        model = joblib.load('XGBoost_model.pkl')
         scaler = joblib.load('scaler.pkl')
         label_encoders = joblib.load('label_encoders.pkl')
         preprocessing_info = joblib.load('preprocessing_info.pkl')
